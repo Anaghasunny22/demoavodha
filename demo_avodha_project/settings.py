@@ -79,7 +79,7 @@ WSGI_APPLICATION = 'demo_avodha_project.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'demoavodha',
+        'NAME': 'demoavodhaproject',
         'USER': 'root',
         'PASSWORD': '',
         'HOST': 'localhost'
